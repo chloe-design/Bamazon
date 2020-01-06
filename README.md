@@ -5,15 +5,15 @@ This Bamazon application is an Amazon store-front like application that allows t
 
 To run the manager interface
 
-git clone git@github.com:chloe-design/bamazon.git
-cd bamazon
-npm install
-node bamazonManager.js
+* git clone git@github.com:chloe-design/bamazon.git
+* cd bamazon
+* npm install
+* node bamazonManager.js
 
 # Technologies used:
-MySQL
-Node.js
-Javascript
+* MySQL
+* Node.js
+* Javascript
 
 # Screenshots from the application
 
